@@ -1,5 +1,3 @@
-- Get File Running in IntelliJ
-- Hook IntJ into repository
 - Update gradle files
 - Place old files into archive folder
 - Input new files from Forge MDK
