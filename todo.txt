@@ -1,4 +1,3 @@
-- Get MC running in IntelliJ
 - Actually start work on the mod
 - ???
 - Profit

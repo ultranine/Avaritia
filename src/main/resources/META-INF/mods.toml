@@ -10,13 +10,13 @@ license="MIT License"
 
 modId="avaritia" #mandatory
 
-version="1.16.5-DEV" #mandatory
+version="${file.jarVersion}" #mandatory
 
 displayName="Avaritia" #mandatory
 
-#updateJSONURL="" #optional
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 
-#displayURL="" #optional
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/ #optional
 
 logoFile="" #optional
 
@@ -28,7 +28,7 @@ description='''
 A mod to see how hard people are willing to grind.
 '''
 
-[[dependencies.examplemod]] #optional
+[[dependencies.avaritia]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -40,7 +40,7 @@ A mod to see how hard people are willing to grind.
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.avaritia]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.5,1.17)"
