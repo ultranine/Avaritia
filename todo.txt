@@ -1,5 +1,3 @@
-- Update gradle files
-- Place old files into archive folder
 - Input new files from Forge MDK
 - Actually start work on the mod
 - ???
