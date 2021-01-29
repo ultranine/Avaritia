@@ -1,9 +1,9 @@
-- Sprite the main tools
-  - Infinity Axe
-  - Infinity Shovel
-- Finish MineTweaker support
-  - Add and remove catalyst, stew, and meatball ingredients
-- Cross-mod support
-  - Finish Thaumcraft support
-  - RF usage for machines?
-  - Finish beeeees
+- Get File Running in IntelliJ
+- Hook IntJ into repository
+- Update gradle files
+- Place old files into archive folder
+- Input new files from Forge MDK
+- Actually start work on the mod
+- ???
+- Profit
+- PR into main repository
