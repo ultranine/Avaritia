@@ -1,6 +1,4 @@
 - Finish Basic Resources
- - Consolidate Resource Items into one item value
- - Add Textures for Resources
  - Add any other data needed for resources
  - Recipes+Tags
 - Start Work on Singularities
@@ -13,5 +11,6 @@
 - Neutronium Machines
 - JEI + CraftTweaker compat
 - Whatever else I missed, will expand later
+- Fix Temporary Solutions
 - Code Cleanup
 - PR into main repository
