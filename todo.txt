@@ -1,4 +1,17 @@
-- Actually start work on the mod
-- ???
-- Profit
+- Finish Basic Resources
+ - Consolidate Resource Items into one item value
+ - Add Textures for Resources
+ - Add any other data needed for resources
+ - Recipes+Tags
+- Start Work on Singularities
+- Add Tools
+- Add Armor
+- Add Endest Pearl
+- Add Foods
+- Add Extreme Crafting Table + Recipes
+- Resource Blocks
+- Neutronium Machines
+- JEI + CraftTweaker compat
+- Whatever else I missed, will expand later
+- Code Cleanup
 - PR into main repository
